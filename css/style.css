@@ -1,0 +1,240 @@
+body {
+	background: #F4F4F4;
+	margin: 0;
+	font-size: 10px;
+}
+
+
+
+.container {
+	
+	width: 780px;
+	margin:0 auto;
+	background: #FFF;
+	box-shadow:0px 9px 13px 5px;
+	-webkit-animation-duration:2s;
+
+}
+
+
+.link-title {
+
+	text-decoration: none;
+	font-size: 2.6em;
+	color:#444444;
+
+}
+
+
+.name{
+	
+	font-size:3.1em;
+	color:red;
+	text-decoration: none;
+	float: right;
+}
+
+
+
+
+#contact > .page-heading {
+
+
+	text-align: center;
+	margin-bottom: 20px;
+
+}
+
+
+.container > .header {
+
+	padding: 45px 0 20px 40px;
+
+}
+
+
+
+.menu {
+
+	background: #3b7687;
+	padding: 6px 0 6px 40px
+
+}
+
+
+.menu a {
+
+	color:#c5d6db;
+	text-decoration: none;
+	font-size: 1.6em;
+	font-family: "Arial Narrow", "Myriad Pro";
+}
+
+.menu a:hover {
+
+	color:#ecf2f3;
+
+}
+
+aside {
+	
+	float: left;
+	width: 120px;
+	padding: 30px 0 0 40px;
+
+}
+
+
+h1{
+
+	margin:0px;
+	color:#869843;
+	font-size: 2.4em;
+	font-family: "Arial Narrow ", "Myriad Pro";
+	font-weight: normal;
+}
+
+
+h2 {
+
+	color:#3b7687;
+	font-size: 15px;
+	margin: 20px 0 5px 0
+}
+
+
+.main {
+
+	margin:0 0 0 180px;
+	padding: 35px 40px 30px 0;
+	color: #444444;
+	font-family: "Georgia";
+	font-size: 13px;
+	text-emphasis:justify;
+}
+
+
+.main a:hover {
+
+	color:#444444;
+
+}
+
+
+#home-image img{
+
+	width: 100%
+}
+
+
+
+
+footer {
+
+	padding: 6px 40px 6px 40px;
+	background: #d6d6d6;
+	font-family: "Lucida Sans Unicode";
+	font-size: 1.1em;
+	text-decoration: right;
+
+}
+
+footer a{
+
+	text-decoration: none;
+	color:#262626;
+}
+
+
+
+.separator {
+
+	color:#FFFFFF;
+	font-size: 1.3em;
+}
+
+
+/************** About Page Style **************************/
+
+
+#about-page #home-image img{
+
+	width: 70%;
+	float: left;
+}
+
+#about-page #profile-info {
+
+	float: right;
+	width:20%;
+	margin:5px
+	margin-bottom: 20px;
+
+}
+
+#about-page .description {
+
+	clear: both;
+
+}
+
+div h2 {
+
+	font-size: 19px;
+	font-weight: bold;
+}
+
+div p {
+
+	font-size: 1.4em;
+}
+
+
+/*****************Contract Page**********************/
+
+
+#contact #form {
+
+	width: 500px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    box-shadow:0px 9px 13px 5px;
+    border-radius: 5px;
+}
+
+
+#contact .page-heading {
+
+
+	text-align: center;
+}
+
+
+#contact #form input {
+
+	    width: 100%;
+    border-radius: 5px;
+    height: 20px;
+    background: #D6D6D6;
+}
+
+
+#contact #form #message {
+
+    width: 100%;
+    border-radius: 5px;
+    background: #D6D6D6;
+}
+
+#contact #form #submit {
+
+	    height: 30px;
+    background: rgb(59, 118, 135);
+}
+
+
+
+
+
+
+
